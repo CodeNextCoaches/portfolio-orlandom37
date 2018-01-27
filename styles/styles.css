@@ -1,1 +1,23 @@
+.midnight {
+  padding: 0;
+  height: 500px;
 
+}
+
+.half-img {
+  height: 500px;
+}
+
+.image{
+  float: right;
+}
+
+.thumbnail{
+  border-radius: 50%;
+}
+
+.jumbotron{
+  background-image: url("../city.jpg");
+  background-position: center;
+  background-size: cover;
+  }
