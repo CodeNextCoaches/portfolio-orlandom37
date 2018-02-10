@@ -1,19 +1,39 @@
 .midnight {
-  padding: 0;
-  height: 500px;
+  background-color: lightgrey;
 
 }
 
 .half-img {
   height: 500px;
 }
-
-.image{
-  float: right;
+img{
+  width: 25%;
+  margin: auto;
+  display: block;
+}
+.text{
+text-align: center;
+}
+.margin2{
+ margin-bottom: 25px;
+}
+.margin{
+ margin-bottom: 75px;
+}
+.border{
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .thumbnail{
   border-radius: 50%;
+}
+.name{
+  font-family:"Dancing Script";
+  font-size: 25px;
+}
+.name2{
+  font-family:"Dancing Script";
 }
 
 .jumbotron{
